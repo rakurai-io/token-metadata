@@ -1,8 +1,8 @@
 {
   "name": "Rakurai Staked SOL",
   "symbol": "RaiSOL",
-  "description": "High Yield Liquid Staking Token",
-  "image": "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.svg",
+  "description": "High Yield Staking powered by High TPS nodes",
+  "image": "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.png",
   "twitter": "https://x.com/Rakurai_io",
   "website": "https://rakurai.io/"
 }
